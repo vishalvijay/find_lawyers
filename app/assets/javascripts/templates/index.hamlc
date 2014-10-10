@@ -1,0 +1,10 @@
+.row
+  .col-md-offset-1.col-md-10
+    .search-row
+      .col-md-offset-1.col-md-4
+        %select.combobox-location{placeholder: "Select City"}
+      .col-md-4
+        %select.combobox-service{placeholder: "Select Service"}
+      .col-md-2
+        %button.search-btn.ladda-button{data-style: "zoom-out"} Search Lawyers
+.lawyers-container

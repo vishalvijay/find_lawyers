@@ -1,0 +1,6 @@
+.body
+  .name=@lawyer.getName()
+  .location=@lawyer.getLocation()
+  %span.rating
+  %span.rating-val=@lawyer.getAverageRating()
+  %span.experience=@lawyer.getYearOfExperience()

@@ -1,0 +1,17 @@
+#= require jquery
+#= require jquery_ujs
+#= require selectize
+#= require spin
+#= require ladda
+#= require bootstrap-sprockets
+#= require hamlcoffee
+#= require underscore
+#= require backbone
+#= require ./basic_includes/utils
+#= require find_lawyer
+#= require_tree ./templates
+#= require_tree ./models
+#= require_tree ./collections
+#= require_tree ./views
+#= require_tree ./routers
+#= require ./basic_includes/initializer
