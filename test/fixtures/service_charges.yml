@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  charge: 1.5
+  lawyer_id: 
+  service_id: 
+
+two:
+  charge: 1.5
+  lawyer_id: 
+  service_id: 
